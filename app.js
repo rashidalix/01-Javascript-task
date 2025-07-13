@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1d0fc8c43bdfae7b6ccfb74cef34123e01cc67ef
 // var username = prompt("Enter your username");
 // var totalmarks = 300;
 
@@ -151,10 +155,18 @@ Ask the user for a quote and the author’s name. Display it in
 // var fullQuote = '"' + quote + '"' + " - " + author;
 // console.log(fullQuote);
 
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 1d0fc8c43bdfae7b6ccfb74cef34123e01cc67ef
 // let myName = document.createElement("a");
 // myName.href = "https://www.google.com";
 // myName.textContent = "Click here to visit Google";
 // document.body.prepend(myName);
+<<<<<<< HEAD
 
 
 
@@ -378,3 +390,5 @@ Ask the user for a quote and the author’s name. Display it in
 // true || false || true
 // true
 
+=======
+>>>>>>> 1d0fc8c43bdfae7b6ccfb74cef34123e01cc67ef
