@@ -1,8 +1,4 @@
 
-
-
-
-
 // var username = prompt("Enter your username");
 // var totalmarks = 300;
 
@@ -14,18 +10,6 @@
 // var percentage = (obtmarks / totalmarks * 100);
 
 // console.log("Hello" + " "+username +" "+ "You obtained marks are "+ obtmarks+" "+ "And your percentage is: "+ " " +percentage + "%");
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Assignment 1: Welcome Message
 Objective:
@@ -146,9 +130,6 @@ Show the result. */
 // let emailAddress = Name + email;
 // console.log("Your email address is: " + emailAddress);
 
-
-
-
 /* Task 4: Combine Favorite Things
 Instruction:
 Ask the user for their favorite color, animal, and food. Create a sentence like:
@@ -176,18 +157,6 @@ Ask the user for a quote and the author’s name. Display it in
 // var author = prompt("Enter the author's name");
 // var fullQuote = '"' + quote + '"' + " - " + author;
 // console.log(fullQuote);
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
